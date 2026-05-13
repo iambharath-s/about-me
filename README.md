@@ -68,13 +68,13 @@ This profile is my **public learning journal**. Expect:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iambharath-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=1800"/>
+<!-- Streak stats — hosted by demolab, very reliable -->
+<img src="https://streak-stats.demolab.com?user=iambharath-s&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambharath-s&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<br/><br/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=iambharath-s&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+<!-- Activity graph — separate reliable service -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iambharath-s&theme=react-dark&hide_border=true&area=true&color=2563EB&line=2563EB&point=ffffff" alt="Contribution Graph" width="100%"/>
 
 </div>
 
