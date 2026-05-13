@@ -30,9 +30,9 @@
 ```python
 class VenkatBharath:
     name       = "Saripudi Venkat Bharath"
-    college    = "SRM IST-Trichy | B.Tech CSE | 2027"
-    location   = "Tamil Nadu, India 🇮🇳"
-    email      = "vb2068@srmist.edu.in"
+    college    = "SRM IST | B.Tech CSE | 2027"
+    
+    
 
     roles      = ["Cloud Security Engineer 🔐",
                   "Application Security (AppSec) 🐛",
