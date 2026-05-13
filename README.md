@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563EB&height=180&section=header&text=Venkat%20Bharath&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Cloud%20Security%20Engineer%20%7C%20Tamil%20Nadu%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563EB&height=180&section=header&text=Venkat%20Bharath&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Cloud%20Security%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Cloud+Security+Engineer+in+the+Making+%F0%9F%94%90;CEH+v13+%E2%86%92+AWS+Security+%E2%86%92+AZ-500+%E2%86%92+CCSP;Sharing+Notes+%26+Projects+as+I+Learn;Started+CEH+Prep+%E2%80%94+June+2026" alt="Typing SVG" />
@@ -45,7 +45,7 @@ class VenkatBharath:
 | # | Certification | Timeline |
 |:---:|:---|:---:|
 | 1 | ⚡ **CEH v13** — Certified Ethical Hacker | Jun – Aug 2026 |
-| 2 | ☁️ **AWS Cloud Practitioner** (CLF-C02) | Aug - Oct 2026 |
+| 2 | ☁️ **AWS Cloud Practitioner** (CLF-C02) | Aug – Oct 2026 |
 | 3 | 🏆 **AWS Security Specialty** (SCS-C02) | Oct – Dec 2026 |
 | 4 | 🔷 **AZ-500** — Azure Security Engineer Associate | Dec 2026 – Jan 2027 |
 | 5 | 🌐 **CCSP** — ISC2 Cloud Security Professional | 2027 |
@@ -68,8 +68,13 @@ This profile is my **public learning journal**. Expect:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iambharath-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambharath-s&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iambharath-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=1800"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambharath-s&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=iambharath-s&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
 </div>
 
@@ -78,6 +83,5 @@ This profile is my **public learning journal**. Expect:
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0f172a&height=110&section=footer&text=Learning+in+Public+%F0%9F%94%90&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
-
 
 </div>
