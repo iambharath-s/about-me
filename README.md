@@ -8,12 +8,12 @@
 
 <br/><br/>
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-black?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/YOUR_HANDLE)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_HANDLE)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_ID)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-black?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/iamvenkatbharath)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/saripudi.venkatbharath)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e01bb-9f24-737d-acb2-8909b9637366)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-bharath/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=iambharath-s&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -23,9 +23,8 @@
 
 ```python
 class VenkatBharath:
-    name      = "Saripudi Venkat Bharath"
-    college   = "SRM IST-Trichy | B.Tech CSE | 2027"
-    location  = "Tamil Nadu, India 🇮🇳"
+    name      = "Bharath S"
+    college   = "SRM IST | B.Tech CSE | 2027"
     focus     = "Cloud Security Engineering"
 
     currently = [
@@ -45,9 +44,9 @@ class VenkatBharath:
 
 | # | Certification | Timeline |
 |:---:|:---|:---:|
-| 1 | ⚡ **CEH v13** — Certified Ethical Hacker | Jun – Jul 2026 |
-| 2 | ☁️ **AWS Cloud Practitioner** (CLF-C02) | Aug 2026 |
-| 3 | 🏆 **AWS Security Specialty** (SCS-C02) | Sep – Nov 2026 |
+| 1 | ⚡ **CEH v13** — Certified Ethical Hacker | Jun – Aug 2026 |
+| 2 | ☁️ **AWS Cloud Practitioner** (CLF-C02) | Aug - Oct 2026 |
+| 3 | 🏆 **AWS Security Specialty** (SCS-C02) | Oct – Dec 2026 |
 | 4 | 🔷 **AZ-500** — Azure Security Engineer Associate | Dec 2026 – Jan 2027 |
 | 5 | 🌐 **CCSP** — ISC2 Cloud Security Professional | 2027 |
 
@@ -69,8 +68,8 @@ This profile is my **public learning journal**. Expect:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iambharath-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambharath-s&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -80,6 +79,5 @@ This profile is my **public learning journal**. Expect:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0f172a&height=110&section=footer&text=Learning+in+Public+%F0%9F%94%90&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
-*Replace all `YOUR_HANDLE` / `YOUR_GITHUB_USERNAME` placeholders before publishing.*
 
 </div>
